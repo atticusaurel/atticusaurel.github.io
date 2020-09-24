@@ -14,10 +14,15 @@ p {
 }
 
 form input {
-    border-radius: 15px;
+    border-radius: 7px;
     outline: none;
 }
 
 form input[type=submit] {
-    background-color: 
+    background-color: Transparent;
+}
+
+form input[type=text] {
+    width:200px;
+    height:25px;
 }
