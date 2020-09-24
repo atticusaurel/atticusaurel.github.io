@@ -21,6 +21,7 @@ form input {
     background-color: Transparent;
     border:none;
     outline: none;
+    font-family: Courier;
 }
 
 #input-submit:hover {
