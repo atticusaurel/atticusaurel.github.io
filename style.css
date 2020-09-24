@@ -14,17 +14,22 @@ p {
 }
 
 form input {
-    border-radius: 7px;
-    outline: none;
+    border-radius: 7px;    
 }
 
-form input[type=submit] {
+input[type=submit] {
     background-color: Transparent;
     border:none;
 }
 
-form input[type=text] {
+input:hover[type=submit] {
+    background-color: #DCDCDC;
+    border:none;
+}
+
+input[type=text] {
     font-family: Courier;
     width:200px;
     height:25px;
+    outline: none;
 }
