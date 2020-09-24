@@ -26,7 +26,7 @@ form input {
 }
 
 #input-submit:hover {
-    background-color: #DCDCDC;
+    color: #808080;
     border:none;
     cursor: pointer;
     height: 25px;
@@ -38,4 +38,5 @@ form input {
     height: 25px;
     outline: none;
     padding-left: 5px;
+    box-sizing: border-box;
 }
