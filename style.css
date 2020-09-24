@@ -11,4 +11,5 @@ p {
 
 form input {
     border-radius: 15px;
+    outline: none;
 }
