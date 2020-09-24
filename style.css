@@ -1,7 +1,6 @@
 p {
     font-family: Courier;
     font-size: 20px;
-    text-align: 
 }
 
 #content {
@@ -11,6 +10,7 @@ p {
 
 #writer-name {
     text-align: center;
+    align: center;
 }
 
 form input {
@@ -20,6 +20,7 @@ form input {
 
 form input[type=submit] {
     background-color: Transparent;
+    border:none;
 }
 
 form input[type=text] {
