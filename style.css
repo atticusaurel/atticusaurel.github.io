@@ -20,17 +20,19 @@ form input {
 #input-submit {
     background-color: Transparent;
     border:none;
+    outline: none;
 }
 
 #input-submit:hover {
     background-color: #DCDCDC;
     border:none;
     cursor: pointer;
+    height: 25px;
 }
 
 #input-text {
     font-family: Courier;
     width:200px;
-    height:25px;
+    height: 25px;
     outline: none;
 }
