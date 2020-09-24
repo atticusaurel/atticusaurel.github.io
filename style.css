@@ -1,9 +1,14 @@
+#writer-name {
+    text-align: center;
+}
+
 p {
     font-family: Courier;
     font-size: 20px;
+    text-align: 
 }
 
 
-form {
+form input {
     border-radius: 15px;
 }
