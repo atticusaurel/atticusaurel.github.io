@@ -1,3 +1,9 @@
+p {
+    font-family: Courier;
+    font-size: 20px;
+    text-align: 
+}
+
 #content {
     margin-top: 15px;
     margin-left: 15px;
@@ -5,12 +11,6 @@
 
 #writer-name {
     text-align: center;
-}
-
-p {
-    font-family: Courier;
-    font-size: 20px;
-    text-align: 
 }
 
 form input {
@@ -23,6 +23,7 @@ form input[type=submit] {
 }
 
 form input[type=text] {
+    font-family: Courier;
     width:200px;
     height:25px;
 }
