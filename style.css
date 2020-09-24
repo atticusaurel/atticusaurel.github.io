@@ -22,7 +22,7 @@ input[type=submit] {
     border:none;
 }
 
-input:hover[type=submit] {
+input[type=submit]:hover {
     background-color: #DCDCDC;
     border:none;
     cursor: pointer;
