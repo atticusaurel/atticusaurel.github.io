@@ -25,6 +25,7 @@ input[type=submit] {
 input:hover[type=submit] {
     background-color: #DCDCDC;
     border:none;
+    cursor: pointer;
 }
 
 input[type=text] {
