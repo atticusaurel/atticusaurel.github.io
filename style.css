@@ -2,3 +2,8 @@ p {
     font-family: Courier;
     font-size: 20px;
 }
+
+
+form {
+    border-radius: 15px;
+}
