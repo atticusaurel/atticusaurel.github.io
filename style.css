@@ -17,18 +17,18 @@ form input {
     border-radius: 7px;    
 }
 
-input[type=submit] {
+#input-submit {
     background-color: Transparent;
     border:none;
 }
 
-input[type=submit]:hover {
+#input-submit:hover {
     background-color: #DCDCDC;
     border:none;
     cursor: pointer;
 }
 
-input[type=text] {
+#input-text {
     font-family: Courier;
     width:200px;
     height:25px;
