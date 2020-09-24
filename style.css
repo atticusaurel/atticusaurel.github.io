@@ -33,6 +33,7 @@ form input {
 }
 
 #input-text {
+    border: 1px solid black;
     font-family: Courier;
     width:200px;
     height: 25px;
